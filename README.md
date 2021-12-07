@@ -24,5 +24,3 @@ I would love to expand my network, so if you would like to connect with me, plea
 [LinkedIn](https://www.linkedin.com/in/adnan-mujagic-0341381ba/)
 [YouTube](https://www.youtube.com/watch?v=dQw4w9WgXcQ)
 [Website](https://showcase-dusky.vercel.app/)
-
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=adnan-mujagic&show_icons=true&locale=en&layout=compact" alt="adnan-mujagic" /></p>
