@@ -1,16 +1,28 @@
-### Hi there 👋
+### Hello, fellow programmer!
 
-<!--
-**adnan-mujagic/adnan-mujagic** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+My name is Adnan Mujagic, and I am a 3rd year student of Information Technologies at International Burch University. I am always fascinated by the way information systems can simplify our life, and allow us do things a lot more efficiently. I am currently focused on frontend development on the web, but I am trying to master the backend skills/frameworks as well. I am constantly trying to improve and learn something new and exciting. In case you find any of my public repositories useful, insightful, or just want to show support, please consider staring them! :) I hope that some day I can write comprehensive, meaningful, elegant code that can solve real problems.
 
-Here are some ideas to get you started:
+Here are some programming languages and frameworks that I've had experience with:
+- Python
+- Node
+- JavaScript
+- Java
+- C - very little though
+- React
+- React Native
+- MSSQL
+- MySQL
+- MongoDB
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I am currently trying to learn about:
+- Spring
+- C#
+
+I would love to expand my network, so if you would like to connect with me, please consider contacting me through one of the following media:
+[Instagram](https://www.instagram.com/adnanmujag1c/)
+[Facebook](https://www.facebook.com/mujagicadnan)
+[LinkedIn](https://www.linkedin.com/in/adnan-mujagic-0341381ba/)
+[YouTube](https://www.youtube.com/watch?v=dQw4w9WgXcQ)
+[Website](https://showcase-dusky.vercel.app/)
+
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=adnan-mujagic&show_icons=true&locale=en&layout=compact" alt="adnan-mujagic" /></p>
